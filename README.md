@@ -1,48 +1,48 @@
 1.  BASICS OF PYTHON SPYDER (TOOL)
-      Introduction Spyder
-      Setting working Directory
-      Creating and saving a script file
-      File execution, clearing console, removing variables from environment, clearing environment
-      Commenting script files
-      Variable creation
-      Arithmetic and logical operators
+      Introduction Spyder,
+      Setting working Directory, 
+      Creating and saving a script file,
+      File execution, clearing console, removing variables from environment, clearing environment,
+      Commenting script files,
+      Variable creation,
+      Arithmetic and logical operators,
       Data types and associated operations
 
 
 2. Sequence data types and associated operations
-      Strings
-      Lists
-      Arrays
-      Tuples
-      Dictionary
-      Sets
-      Range
+      Strings,
+      Lists, 
+      Arrays,
+      Tuples,
+      Dictionary, 
+      Sets, 
+      Range, 
       NumPy
        - ndArray
 
 
 3. Pandas dataframe and dataframe related operations on Toyota Corolla dataset
-    Reading files
-    Exploratory data analysis
-    Data preparation and preprocessing
-    Data visualization on Toyoto Corolla dataset using matplotlib and seaborn libraries
-    Scatter plot
-    Line plot
-    Bar plot
-    Histogram
-    Box plot
-    Pair plot
-    Control structures using Toyota Corolla dataset
-    if-else family
-    for loop
-    for loop with if break
-    while loop
-    Functions
+    Reading files,
+    Exploratory data analysis , 
+    Data preparation and preprocessing,
+    Data visualization on Toyoto Corolla dataset using matplotlib and seaborn libraries,
+    Scatter plot,
+    Line plot,
+    Bar plot,
+    Histogram,
+    Box plot,
+    Pair plot,
+    Control structures using Toyota Corolla dataset,
+    if-else family,
+    for loop,
+    for loop with if break,
+    while loop,
+    Functions,
 
 4. CASE STUDY
-    Regression
-    Predicting price of pre-owned cars
-    Classification
+    Regression,
+    Predicting price of pre-owned cars,
+    Classification,
     Classifying personal income
 
 ***************************************************************************
