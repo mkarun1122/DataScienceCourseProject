@@ -1,5 +1,4 @@
-1. Basics 
-      BASICS OF PYTHON SPYDER (TOOL)
+1.  BASICS OF PYTHON SPYDER (TOOL)
       Introduction Spyder
       Setting working Directory
       Creating and saving a script file
