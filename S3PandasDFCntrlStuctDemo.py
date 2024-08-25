@@ -15,7 +15,7 @@ import numpy as np
 import pandas as pd 
 
 
-os.chdir("D:/2024/NPTEL/DS/spyderPandasDemo")
+os.chdir("D:/2024/DS/spyderPandasDemo")
 
 cars_data1=pd.read_csv('Toyota.csv',index_col=0)
 cars_data1.info()
