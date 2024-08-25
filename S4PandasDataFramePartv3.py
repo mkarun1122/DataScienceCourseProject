@@ -47,7 +47,7 @@ import matplotlib.pyplot as plt
 
 
 # set working directory 
-os.chdir("D:/2024/NPTEL/DS/spyderPandasDemo")
+os.chdir("D:/2024/DS/spyderPandasDemo")
 # import csv file 
 cars_data = pd.read_csv("Toyota.csv", index_col=0,na_values=["?","????"])
 #remove missing values 
