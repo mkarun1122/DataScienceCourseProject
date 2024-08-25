@@ -19,7 +19,7 @@ import pandas as pd
 
 
 # working dir 
-os.chdir("D:/2024/NPTEL/DS/spyderPandasDemo")
+os.chdir("D:/2024/DS/spyderPandasDemo")
 
 
 # reading csv file 
