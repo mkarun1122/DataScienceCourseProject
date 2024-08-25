@@ -2,7 +2,7 @@
 """
 Created on Thu Aug  8 02:42:50 2024
 
-@author: DELL
+@author: Arun M
 """
 
 """
@@ -19,7 +19,7 @@ import pandas as pd
 import numpy as np
 
 
-os.chdir("D://2024//NPTEL//DS//spyderPandasDemo")
+os.chdir("D://2024//DS//spyderPandasDemo")
 
 cars_data = pd.read_csv("Toyota.csv")
 cars_data.info()
