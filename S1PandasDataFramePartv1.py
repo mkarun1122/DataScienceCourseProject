@@ -5,7 +5,7 @@ import os
 
 import pandas as pd
 
-os.chdir("D://2024//NPTEL//DS//spyderPandasDemo")
+os.chdir("D://2024//DS//spyderPandasDemo")
 
 cars_data1woind = pd.read_csv("Toyota.csv")  # loads data wit unnamed: 0 col 
 
